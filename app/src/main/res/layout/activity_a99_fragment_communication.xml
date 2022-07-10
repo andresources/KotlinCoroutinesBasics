@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".viewmodel_livedata_fragmet_communication.A99_Activity_FragmentCommunication">
+
+    <Button
+        android:id="@+id/btnUpdateFromActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:text="Update From Activity" />
+
+    <TextView
+        android:id="@+id/tvActivityInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity Info"
+        android:textSize="15dp" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView1"
+        android:layout_weight="1"
+        android:name="com.kotlincoroutinesbasics.viewmodel_livedata_fragmet_communication.A99_Fragment1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView2"
+        android:layout_weight="1"
+        android:name="com.kotlincoroutinesbasics.viewmodel_livedata_fragmet_communication.A99_Fragment2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

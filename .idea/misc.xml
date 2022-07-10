@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a01_coroutine.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a02_coroutine.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a03_coroutine.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a04_coroutine.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a05_launch_coroutine.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_a99_fragment_communication.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_c01_cb_runblocking.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_c02_cb_launch.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_c03_cb_async.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/fragment_a99_1.xml" value="0.1796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/KotlinCoroutinesBasics/app/src/main/res/layout/fragment_a99_2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
